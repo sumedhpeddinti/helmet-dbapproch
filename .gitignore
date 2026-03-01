@@ -9,10 +9,6 @@ __pycache__/
 *$py.class
 *.so
 
-# Model files (too large)
-*.pt
-*.pkl
-
 # IDE
 .vscode/
 .idea/
