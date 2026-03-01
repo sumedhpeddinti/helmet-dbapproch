@@ -1,0 +1,5 @@
+/home/sum/Desktop/helmet/.venv/bin/python helmet_monitor_best.py
+
+/home/sum/Desktop/helmet/.venv/bin/python helmet_monitor_with_challan.py
+
+/home/sum/Desktop/helmet/.venv/bin/python test.py
